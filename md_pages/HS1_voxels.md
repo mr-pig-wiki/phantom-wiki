@@ -3,7 +3,7 @@ title: HS1 voxels
 permalink: /HS1_voxels/
 ---
 
-<a href="/File:HS1.jpeg" class="wikilink"
+<a href="/wiki_files/HS1.jpeg" class="wikilink"
 title="400px|thumb|Segmented &quot;HS1&quot; MGH head + upper chest model">400px|thumb|Segmented
 "HS1" MGH head + upper chest model</a>
 

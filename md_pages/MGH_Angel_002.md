@@ -5,16 +5,16 @@ permalink: /MGH_Angel_002/
 
 |  |  |
 |----|----|
-| <a href="/File:Angel002_skull_front.png" class="wikilink"
-title="200px | thumb | right">200px | thumb | right</a> | <a href="/File:Angel002_skull_back.png" class="wikilink"
+| <a href="/wiki_files/Angel002_skull_front.png" class="wikilink"
+title="200px | thumb | right">200px | thumb | right</a> | <a href="/wiki_files/Angel002_skull_back.png" class="wikilink"
 title="200px | thumb | right">200px | thumb | right</a> |
 
 Front and back halves of the skull part
 
 |  |  |
 |----|----|
-| <a href="/File:Angel002_outer_front.png" class="wikilink"
-title="200px | thumb | right">200px | thumb | right</a> | <a href="/File:Angel002_outer_back.png" class="wikilink"
+| <a href="/wiki_files/Angel002_outer_front.png" class="wikilink"
+title="200px | thumb | right">200px | thumb | right</a> | <a href="/wiki_files/Angel002_outer_back.png" class="wikilink"
 title="200px | thumb | right">200px | thumb | right</a> |
 
 Front and back halves of the outer compartment

@@ -5,16 +5,16 @@ permalink: /MGH_Angel_001/
 
 |  |  |
 |----|----|
-| <a href="/File:Angell001_skull_front.png" class="wikilink"
-title="200px | thumb | right">200px | thumb | right</a> | <a href="/File:Angell001_skull_back.png" class="wikilink"
+| <a href="/wiki_files/Angell001_skull_front.png" class="wikilink"
+title="200px | thumb | right">200px | thumb | right</a> | <a href="/wiki_files/Angell001_skull_back.png" class="wikilink"
 title="200px | thumb | right">200px | thumb | right</a> |
 
 Front and back halves of the skull part
 
 |  |  |
 |----|----|
-| <a href="/File:Angell001_outer_front.png" class="wikilink"
-title="200px | thumb | right">200px | thumb | right</a> | <a href="/File:Angell001_outer_back.png" class="wikilink"
+| <a href="/wiki_files/Angell001_outer_front.png" class="wikilink"
+title="200px | thumb | right">200px | thumb | right</a> | <a href="/wiki_files/Angell001_outer_back.png" class="wikilink"
 title="200px | thumb | right">200px | thumb | right</a> |
 
 Front and back halves of the outer compartment
@@ -81,7 +81,7 @@ To seal a hole with seran wrap, follow these instructions:
 Note that this must be performed before waterproofing of the outer
 surface of the skull using the rubber spray.
 
-<a href="/File:Angel_001_field_maps.png" class="wikilink"
+<a href="/wiki_files/Angel_001_field_maps.png" class="wikilink"
 title="400px|thumb|Left: Sagittal GRE 7 Tesla image of the phantom showing the characteristic dielectric resonance intensity peak inside the brain. Right: Transverse B0 map showing a large frontal lobe hotspot around 200 Hz">400px|thumb|Left:
 Sagittal GRE 7 Tesla image of the phantom showing the characteristic
 dielectric resonance intensity peak inside the brain. Right: Transverse

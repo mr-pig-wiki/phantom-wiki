@@ -3,12 +3,12 @@ title: DBS virtual population
 permalink: /DBS_virtual_population/
 ---
 
-<a href="/File:MonolateralDBSModels.JPG" class="wikilink"
+<a href="/wiki_files/MonolateralDBSModels.JPG" class="wikilink"
 title="400px|thumb|The Janis, Kurt and Michael models (fake names) are implanted monolaterally">400px|thumb|The
 Janis, Kurt and Michael models (fake names) are implanted
 monolaterally</a>
 
-<a href="/File:BilateralDBSModels.JPG" class="wikilink"
+<a href="/wiki_files/BilateralDBSModels.JPG" class="wikilink"
 title="400px|thumb|The Freddie and Angus models are implanted bilaterally. Note that Angus, in addition to his two functional DBS leads has two abandoned bilateral leads.">400px|thumb|The
 Freddie and Angus models are implanted bilaterally. Note that Angus, in
 addition to his two functional DBS leads has two abandoned bilateral

@@ -5,7 +5,7 @@ permalink: /Main_Page/
 
 ## A.A. Martinos Center / Wald group anthropomorphic phantom builder's Wiki
 
-<a href="/File:giorgio_phant.jpg" class="wikilink"
+<a href="/wiki_files/Giorgio_phant.jpg" class="wikilink"
 title="200px|thumb|right|CAD model of the &quot;MGH head 1&quot; phantom">200px|thumb|right|CAD
 model of the "MGH head 1" phantom</a>
 
@@ -57,7 +57,7 @@ printed. Most of the components are open source designs.
 
 ## 3D-printed phantoms construction tips
 
-<a href="/File:Rubber_spray.jpg" class="wikilink"
+<a href="/wiki_files/Rubber_spray.jpg" class="wikilink"
 title="200px|right|thumb|Red rubber spray used to waterproof 3D printed plastic parts">200px|right|thumb|Red
 rubber spray used to waterproof 3D printed plastic parts</a>
 
@@ -135,7 +135,7 @@ fill the compartment before assembling the outer compartment!
 
 ### Filling
 
-<a href="/File:Cond_vs_NaCl.JPG" class="wikilink"
+<a href="/wiki_files/Cond_vs_NaCl.JPG" class="wikilink"
 title="300px|right|thumb|Linear relationship between NaCl concentration and the conductivity as determined using a dielectric probe">300px|right|thumb|Linear
 relationship between NaCl concentration and the conductivity as
 determined using a dielectric probe</a>

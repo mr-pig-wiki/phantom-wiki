@@ -3,7 +3,7 @@ title: MGH head 1:MGH head 1
 permalink: /MGH_head_1:MGH_head_1/
 ---
 
-<a href="/File:giorgio_phant.jpg" class="wikilink"
+<a href="/wiki_files/Giorgio_phant.jpg" class="wikilink"
 title="200px|thumb|right|">200px|thumb|right|</a>
 
 ### Citation
@@ -33,5 +33,5 @@ material with similar electrical properties.
 
 The sealing flange uses an o-ring.
 
-<a href="/File:Phantom_figure_CT_MR.png" class="wikilink"
+<a href="/wiki_files/Phantom_figure_CT_MR.png" class="wikilink"
 title="400px|thumb|right|">400px|thumb|right|</a>

@@ -3,7 +3,7 @@ title: MGH Angel 001 voxels
 permalink: /MGH_Angel_001_voxels/
 ---
 
-<a href="/File:Angel001.jpeg" class="wikilink"
+<a href="/wiki_files/Angel001.jpeg" class="wikilink"
 title="400px|thumb|Segmented &quot;Angel 001&quot; MGH head model">400px|thumb|Segmented
 "Angel 001" MGH head model</a>
 

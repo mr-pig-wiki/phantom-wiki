@@ -3,7 +3,7 @@ title: MGH BoMA voxels
 permalink: /MGH_BoMA_voxels/
 ---
 
-<a href="/File:Giorgio.jpeg" class="wikilink"
+<a href="/wiki_files/Giorgio.jpeg" class="wikilink"
 title="400px|thumb|Segmented &quot;MGH BoMA&quot; head model">400px|thumb|Segmented
 "MGH BoMA" head model</a>
 

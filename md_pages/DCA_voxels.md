@@ -3,7 +3,7 @@ title: DCA voxels
 permalink: /DCA_voxels/
 ---
 
-<a href="/File:MGH_DCA_head_model.jpg" class="wikilink"
+<a href="/wiki_files/MGH_DCA_head_model.jpg" class="wikilink"
 title="400px|thumb|Segmented &quot;DCA&quot; MGH detailed head model">400px|thumb|Segmented
 "DCA" MGH detailed head model</a>
 
